@@ -60,6 +60,8 @@ or run on terminal/cmd
 ```bash
 > snarl 127.0.0.1 9889 -a test_app -i "snarl.png" -t TEST -v -R
 > snarl 127.0.0.1 9889 -a test_app -b "TEST MESSAGE" -i "snarl.png" -p 1 -t TEST -v -N
+> pysnarl 127.0.0.1 9889 -a test_app -i "snarl.png" -t TEST -v -R
+> pysnarl 127.0.0.1 9889 -a test_app -b "TEST MESSAGE" -i "snarl.png" -p 1 -t TEST -v -N
 [SNP/3.1 NOTIFY
 app-id: test_app
 title: TEST
