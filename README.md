@@ -1,4 +1,4 @@
-# snarl
+# PySnarl
 
 PySnarl python lib, Send SNP/3.1 messages. (Snarl)
 
